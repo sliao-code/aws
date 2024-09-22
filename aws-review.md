@@ -1491,384 +1491,384 @@
         </details>
 
 101. What is the connectivity option that uses Internet Protocol Security (IPSec) to establish encrypted connectivity between an on-premises network and the AWS Cloud?
-    - A. Internet Gateway.
-    - B. AWS IQ.
-    - C. AWS Direct Connect.
-    - D. AWS Site-to-Site VPN.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-
-      IPSec is a VPN protocol. So it is D.
-
-      A: Internet gateway is a general service to forward traffic between internet and private subnets.
-
-      AWS IQ provides you with hands-on help from AWS experts who can complete work in your AWS account.
-
-      C: Direct Connect may not use VPN.
-    </details>
+        - A. Internet Gateway.
+        - B. AWS IQ.
+        - C. AWS Direct Connect.
+        - D. AWS Site-to-Site VPN.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: D
+    
+          IPSec is a VPN protocol. So it is D.
+    
+          A: Internet gateway is a general service to forward traffic between internet and private subnets.
+    
+          AWS IQ provides you with hands-on help from AWS experts who can complete work in your AWS account.
+    
+          C: Direct Connect may not use VPN.
+        </details>
 
 102. What is the minimum level of AWS support that provides 24x7 access to technical support engineers via phone and chat?
-    - A. Enterprise Support.
-    - B. Developer Support.
-    - C. Basic Support.
-    - D. Business Support.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-
-      Need to review the details of different support levels.
-
-      Basic Support: Trusted Advisor, 24/7 access to customer service, documents, etc. Personal Heath Dashnoard.
-
-      Developer Support: Add the followings: business-hour email support, unlimited cases/1 primary contact. General < 24 hours. impaired < 12 hours.
-
-      Business Support: intened for production workloads. 24/7 phone, email, and chat access to Support Engineers. unlimited cases/unlimited contacts. Production system impaired < 4 hours, production system down < 1 hour.
-
-      Enterprise Support: Bussiness support + Access to TAM, Coneirge Support team, business critical < 15 minutes.
-    </details>
+        - A. Enterprise Support.
+        - B. Developer Support.
+        - C. Basic Support.
+        - D. Business Support.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: D
+    
+          Need to review the details of different support levels.
+    
+          Basic Support: Trusted Advisor, 24/7 access to customer service, documents, etc. Personal Heath Dashnoard.
+    
+          Developer Support: Add the followings: business-hour email support, unlimited cases/1 primary contact. General < 24 hours. impaired < 12 hours.
+    
+          Business Support: intened for production workloads. 24/7 phone, email, and chat access to Support Engineers. unlimited cases/unlimited contacts. Production system impaired < 4 hours, production system down < 1 hour.
+    
+          Enterprise Support: Bussiness support + Access to TAM, Coneirge Support team, business critical < 15 minutes.
+        </details>
 
 103. Which of the following is used to control network traffic in AWS? (Choose TWO)
-    - A. Network Access Control Lists (NACLs).
-    - B. Key Pairs.
-    - C. Access Keys.
-    - D. IAM Policies.
-    - E. Security Groups.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, E
-
-      B, C: just keys, not network traffic control. D: just policies for users, not network traffic related.
-    </details>
+        - A. Network Access Control Lists (NACLs).
+        - B. Key Pairs.
+        - C. Access Keys.
+        - D. IAM Policies.
+        - E. Security Groups.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: A, E
+    
+          B, C: just keys, not network traffic control. D: just policies for users, not network traffic related.
+        </details>
 
 104. A company has developed a media transcoding application in AWS. The application is designed to recover quickly from hardware failures. Which one of the following types of instance would be the most cost-effective choice to use?
-    - A. Reserved instances.
-    - B. Spot Instances.
-    - C. On-Demand instances.
-    - D. Dedicated instances.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-
-      mdeia transcoding doesn't require continuous running. It can recover quickly. So Spot Instances are cheapest.
-    </details>
+        - A. Reserved instances.
+        - B. Spot Instances.
+        - C. On-Demand instances.
+        - D. Dedicated instances.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: B
+    
+          mdeia transcoding doesn't require continuous running. It can recover quickly. So Spot Instances are cheapest.
+        </details>
 
 105. Which AWS Service provides the current status of all AWS Services in all AWS Regions?
-    - A. AWS Service Health Dashboard.
-    - B. AWS Management Console.
-    - C. Amazon CloudWatch.
-    - D. AWS Personal Health Dashboard.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-
-      Need to remember this one.
-    </details>
+        - A. AWS Service Health Dashboard.
+        - B. AWS Management Console.
+        - C. Amazon CloudWatch.
+        - D. AWS Personal Health Dashboard.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: A
+    
+          Need to remember this one.
+        </details>
 
 106. Which AWS service or feature can be used to call AWS Services from different programming languages?
-    - A. AWS Software Development Kit.
-    - B. AWS Command Line Interface.
-    - C. AWS CodeDeploy.
-    - D. AWS Management Console.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-
-      programmatic -> SDK/API
-    </details>
+        - A. AWS Software Development Kit.
+        - B. AWS Command Line Interface.
+        - C. AWS CodeDeploy.
+        - D. AWS Management Console.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: A
+    
+          programmatic -> SDK/API
+        </details>
 
 107. Which AWS Service can be used to register a new domain name?
-    - A. Amazon Personalize.
-    - B. Amazon Route 53.
-    - C. AWS KMS.
-    - D. AWS Config.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-
-      Route 53 -> Domain Name Service
-    </details>
+        - A. Amazon Personalize.
+        - B. Amazon Route 53.
+        - C. AWS KMS.
+        - D. AWS Config.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: B
+    
+          Route 53 -> Domain Name Service
+        </details>
 
 108. App development companies move their business to AWS to reduce time-to-market and improve customer satisfaction, what are the AWS automation tools that help them deploy their applications faster? (Choose TWO)
-    - A. AWS CloudFormation.
-    - B. AWS Migration Hub.
-    - C. AWS IAM.
-    - D. AWS Elastic Beanstalk.
-    - E. Amazon Macie.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, D
-
-      It is about deployment. so B (migration), C (access control), E (data security) are incorrect.
-    </details>
+        - A. AWS CloudFormation.
+        - B. AWS Migration Hub.
+        - C. AWS IAM.
+        - D. AWS Elastic Beanstalk.
+        - E. Amazon Macie.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: A, D
+    
+          It is about deployment. so B (migration), C (access control), E (data security) are incorrect.
+        </details>
 
 109. Which AWS service provides cost-optimization recommendations?
-    - A. AWS Trusted Advisor.
-    - B. AWS Pricing Calculator.
-    - C. Amazon QuickSight.
-    - D. AWS X-Ray.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-
-      B: just calculate price, not a recommandation tool.
-
-      C: is not related to costs.
-
-      D: helps you debug and analyze your microservices applications with request tracing so you can find the root cause of issues and performance.
-    </details>
+        - A. AWS Trusted Advisor.
+        - B. AWS Pricing Calculator.
+        - C. Amazon QuickSight.
+        - D. AWS X-Ray.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: A
+    
+          B: just calculate price, not a recommandation tool.
+    
+          C: is not related to costs.
+    
+          D: helps you debug and analyze your microservices applications with request tracing so you can find the root cause of issues and performance.
+        </details>
 
 110. What is the most cost-effective purchasing option for running a set of EC2 instances that must always be available for a period of two months?
-    - A. On-Demand Instances.
-    - B. Spot Instances.
-    - C. Reserved Instances     - All Upfront.
-    - D. Reserved Instances     - No Upfront.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
+        - A. On-Demand Instances.
+        - B. Spot Instances.
+        - C. Reserved Instances     - All Upfront.
+        - D. Reserved Instances     - No Upfront.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: A
+        </details>
 
 111. What is the AWS Support feature that allows customers to manage support cases programmatically?
-    - A. AWS Trusted Advisor.
-    - B. AWS Operations Support.
-    - C. AWS Support API.
-    - D. AWS Personal Health Dashboard.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
+        - A. AWS Trusted Advisor.
+        - B. AWS Operations Support.
+        - C. AWS Support API.
+        - D. AWS Personal Health Dashboard.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: C
+        </details>
 
 112. Which methods can be used by customers to interact with AWS Identity and Access Management (IAM)? (Choose TWO)
-    - A. AWS CLI.
-    - B. AWS Security Groups.
-    - C. AWS SDKs.
-    - D. AWS Network Access Control Lists.
-    - E. AWS CodeCommit.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, C
-    </details>
+        - A. AWS CLI.
+        - B. AWS Security Groups.
+        - C. AWS SDKs.
+        - D. AWS Network Access Control Lists.
+        - E. AWS CodeCommit.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: A, C
+        </details>
 
 113. How does AWS notify customers about security and privacy events pertaining to AWS services?
-    - A. Using the AWS ACM service.
-    - B. Using Security Bulletins.
-    - C. Using the AWS Management Console.
-    - D. Using Compliance Resources.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-
-      AWS makes public notifications in the form of Security Bulletins, which are posted in the AWS Security website.
-    </details>
+        - A. Using the AWS ACM service.
+        - B. Using Security Bulletins.
+        - C. Using the AWS Management Console.
+        - D. Using Compliance Resources.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: B
+    
+          AWS makes public notifications in the form of Security Bulletins, which are posted in the AWS Security website.
+        </details>
 
 114. Which of the following approaches will help you eliminate human error and automate the process of creating and updating your AWS environment?
-    - A. Use Software test automation tools.
-    - B. Use AWS CodeDeploy to build and automate your AWS environment.
-    - C. Use code to provision and operate your AWS infrastructure.
-    - D. Migrate all of your applications to a dedicated host.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-
-      to eliminate human errors -> use code/scripts to automate the process.
-    </details>
+        - A. Use Software test automation tools.
+        - B. Use AWS CodeDeploy to build and automate your AWS environment.
+        - C. Use code to provision and operate your AWS infrastructure.
+        - D. Migrate all of your applications to a dedicated host.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: C
+    
+          to eliminate human errors -> use code/scripts to automate the process.
+        </details>
 
 115. Which of the following factors should be considered when determining the region in which AWS Resources will be deployed? (Choose TWO)
-    - A. The AWS Region’s security level.
-    - B. Data sovereignty.
-    - C. Cost.
-    - D. The planned number of VPCs.
-    - E. Geographic proximity to the company's location.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, C
-
-      A: there is no security difference among regions.
-
-      D: # of VPC has nothing to do with regions.
-
-      E: irelavant. There might be a point to be close to customers.
-    </details>
+        - A. The AWS Region’s security level.
+        - B. Data sovereignty.
+        - C. Cost.
+        - D. The planned number of VPCs.
+        - E. Geographic proximity to the company's location.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: B, C
+    
+          A: there is no security difference among regions.
+    
+          D: # of VPC has nothing to do with regions.
+    
+          E: irelavant. There might be a point to be close to customers.
+        </details>
 
 116. You are running a financial services web application on AWS. The application uses a MySQL database to store the data. Which of the following AWS services would improve the performance of your application by allowing you to retrieve information from fast in-memory caches?
-    - A. Amazon EFS.
-    - B. Amazon Neptune.
-    - C. Amazon ElastiCache.
-    - D. DAX.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-
-      it is about "cache". choose C.
-
-      Amazon Neptune: is a fast, fully managed database service powering graph use cases such as identity graphs, knowledge graphs, and fraud detection.
-    </details>
+        - A. Amazon EFS.
+        - B. Amazon Neptune.
+        - C. Amazon ElastiCache.
+        - D. DAX.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: C
+    
+          it is about "cache". choose C.
+    
+          Amazon Neptune: is a fast, fully managed database service powering graph use cases such as identity graphs, knowledge graphs, and fraud detection.
+        </details>
 
 117. The TCO gap between AWS infrastructure and traditional infrastructure has widened over the recent years. Which of the following could be the reason for that?
-    - A. AWS helps customers invest more in capital expenditures.
-    - B. AWS automates all infrastructure operations, so customers save more on human resources costs.
-    - C. AWS continues to lower the cost of cloud computing for its customers.
-    - D. AWS secures AWS resources at no additional charge.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-
-      TCO -> total costs of operation.
-    </details>
+        - A. AWS helps customers invest more in capital expenditures.
+        - B. AWS automates all infrastructure operations, so customers save more on human resources costs.
+        - C. AWS continues to lower the cost of cloud computing for its customers.
+        - D. AWS secures AWS resources at no additional charge.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: C
+    
+          TCO -> total costs of operation.
+        </details>
 
 118. Which of the following is a type of MFA device that customers can use to protect their AWS resources?
-    - A. AWS CloudHSM.
-    - B. U2F Security Key.
-    - C. AWS Access Keys.
-    - D. AWS Key Pair.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
+        - A. AWS CloudHSM.
+        - B. U2F Security Key.
+        - C. AWS Access Keys.
+        - D. AWS Key Pair.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: B
+        </details>
 
 119. Which of the following is NOT a factor when estimating the costs of Amazon EC2? (Choose TWO)
-    - A. The amount of time the instances will be running.
-    - B. Number of security groups.
-    - C. Allocated Elastic IP Addresses.
-    - D. Number of Hosted Zones.
-    - E. Number of instances.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, D
-
-      A hosted zone is a container for records, and records contain information about how you want to route traffic for a specific domain. So "Hosted Zone" is not availability zone! It is not related to EC2.
-    </details>
+        - A. The amount of time the instances will be running.
+        - B. Number of security groups.
+        - C. Allocated Elastic IP Addresses.
+        - D. Number of Hosted Zones.
+        - E. Number of instances.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: B, D
+    
+          A hosted zone is a container for records, and records contain information about how you want to route traffic for a specific domain. So "Hosted Zone" is not availability zone! It is not related to EC2.
+        </details>
 
 120. A user has opened a "Production System Down" support case to get help from AWS Support after a production system disruption. What is the expected response time for this type of support case?
-    - A. 12 hours.
-    - B. 15 minutes.
-    - C. 24 hours.
-    - D. One hour.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-
-      Need to remember the following:
-      * General guidance: <24 hours
-      * System impaired: < 12 hours
-      * Production system impaired: < 4 hours
-      * Production system down: < 1 hour
-      * Business-critical system down: < 15 miniutes
-    </details>
+        - A. 12 hours.
+        - B. 15 minutes.
+        - C. 24 hours.
+        - D. One hour.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: D
+    
+          Need to remember the following:
+          * General guidance: <24 hours
+          * System impaired: < 12 hours
+          * Production system impaired: < 4 hours
+          * Production system down: < 1 hour
+          * Business-critical system down: < 15 miniutes
+        </details>
 
 121. Which of the following should be taken into account when performing a TCO analysis regarding the costs of running an application on AWS VS on-premises? (Choose TWO)
-    - A. Labor and IT costs.
-    - B. Cooling and power consumption.
-    - C. Amazon EBS computing power.
-    - D. Software architecture.
-    - E. Software compatibility.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, B
-    </details>
+        - A. Labor and IT costs.
+        - B. Cooling and power consumption.
+        - C. Amazon EBS computing power.
+        - D. Software architecture.
+        - E. Software compatibility.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: A, B
+        </details>
 
 122. Which AWS Service provides integration with Chef to automate the configuration of EC2 instances?
-    - A. AWS Config.
-    - B. AWS OpsWorks.
-    - C. AutoScaling.
-    - D. AWS CloudFormation.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-
-      Need to remember this. Amazon OpsWorks is associated with Chef and Puppet.
-    </details>
+        - A. AWS Config.
+        - B. AWS OpsWorks.
+        - C. AutoScaling.
+        - D. AWS CloudFormation.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: B
+    
+          Need to remember this. Amazon OpsWorks is associated with Chef and Puppet.
+        </details>
 
 123. A customer is seeking to store objects in their AWS environment and to make those objects downloadable over the internet. Which AWS Service can be used to accomplish this?
-    - A. Amazon EBS.
-    - B. Amazon EFS.
-    - C. Amazon S3.
-    - D. Amazon Instance Store.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
+        - A. Amazon EBS.
+        - B. Amazon EFS.
+        - C. Amazon S3.
+        - D. Amazon Instance Store.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: C
+        </details>
 
 124. A company is migrating a web application to AWS. The application’s compute capacity is continually utilized throughout the year. Which of the below options offers the company the most cost-effective solution?
-    - A. On-demand Instances.
-    - B. Dedicated Hosts.
-    - C. Spot Instances.
-    - D. Reserved Instances.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
+        - A. On-demand Instances.
+        - B. Dedicated Hosts.
+        - C. Spot Instances.
+        - D. Reserved Instances.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: D
+        </details>
 
 125. Which of the following will help AWS customers save on costs when migrating their workloads to AWS?
-    - A. Use servers instead of managed services.
-    - B. Use existing third-party software licenses on AWS.
-    - C. Migrate production workloads to AWS edge locations instead of AWS Regions.
-    - D. Use AWS Outposts to run all workloads in a cost-optimized environment.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-
-      Need to focus on costs.
-
-      A: managed services are often cheaper.
-
-      C: edge location is only for cache content delivery, not for other production workloads.
-
-      D: AWS Outposts are expensive in general.
-    </details>
+        - A. Use servers instead of managed services.
+        - B. Use existing third-party software licenses on AWS.
+        - C. Migrate production workloads to AWS edge locations instead of AWS Regions.
+        - D. Use AWS Outposts to run all workloads in a cost-optimized environment.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: B
+    
+          Need to focus on costs.
+    
+          A: managed services are often cheaper.
+    
+          C: edge location is only for cache content delivery, not for other production workloads.
+    
+          D: AWS Outposts are expensive in general.
+        </details>
 
 126. What should you do if you see resources, which you don’t remember creating, in the AWS Management Console? (Choose TWO)
-    - A. Stop all running services and open an investigation.
-    - B. Give your root account password to AWS Support so that they can assist in troubleshooting and securing the account.
-    - C. Check the AWS CloudTrail logs and delete all IAM users that have access to your resources.
-    - D. Open an investigation and delete any potentially compromised IAM users.
-    - E. Change your AWS root account password and the passwords of any IAM users.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D, E
-
-      "You don't remember creating" -> potentially unauthorized access.
-
-      A: would be what you can do if you forget to stop services.
-
-      B: Absolutely not.
-
-      C: "deleting all IAM users" is too extreme.
-
-      D and E: are to fix the security problems.
-    </details>
+        - A. Stop all running services and open an investigation.
+        - B. Give your root account password to AWS Support so that they can assist in troubleshooting and securing the account.
+        - C. Check the AWS CloudTrail logs and delete all IAM users that have access to your resources.
+        - D. Open an investigation and delete any potentially compromised IAM users.
+        - E. Change your AWS root account password and the passwords of any IAM users.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: D, E
+    
+          "You don't remember creating" -> potentially unauthorized access.
+    
+          A: would be what you can do if you forget to stop services.
+    
+          B: Absolutely not.
+    
+          C: "deleting all IAM users" is too extreme.
+    
+          D and E: are to fix the security problems.
+        </details>
 
 127. Availability Zones within a Region are connected over low-latency links. Which of the following is a benefit of these links?
-    - A. Create private connection to your data center.
-    - B. Achieve global high availability.
-    - C. Automate the process of provisioning new compute resources.
-    - D. Make synchronous replication of your data possible.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-
-      "low latency" == fast. The question is about what is a benefit of "having fast connection".
-    </details>
+        - A. Create private connection to your data center.
+        - B. Achieve global high availability.
+        - C. Automate the process of provisioning new compute resources.
+        - D. Make synchronous replication of your data possible.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: D
+    
+          "low latency" == fast. The question is about what is a benefit of "having fast connection".
+        </details>
 
 128. Which of the following are true regarding the languages that are supported on AWS Lambda? (Choose TWO)
-    - A. Lambda only supports Python and Node.js, but third party plugins are available to convert code in other languages to these formats.
-    - B. Lambda natively supports a number of programming languages such as Node.js, Python, and Java.
-    - C. Lambda is AWS’ proprietary programming language for microservices.
-    - D. Lambda doesn’t support programming languages; it is a serverless compute service.
-    - E. Lambda can support any programming language using an API.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, E
-
-      First of all, AWS Lambda supports many languages. You may not remember what languages exactly.
-
-      A: never heard of converting languages.
-
-      B: it lists several languages using "such as". It seems to be correct.
-
-      C: apparently wrong. Nobody will use a proprietary language.
-
-      D: is wrong.
-
-      E: Looks right.
-    </details>
+        - A. Lambda only supports Python and Node.js, but third party plugins are available to convert code in other languages to these formats.
+        - B. Lambda natively supports a number of programming languages such as Node.js, Python, and Java.
+        - C. Lambda is AWS’ proprietary programming language for microservices.
+        - D. Lambda doesn’t support programming languages; it is a serverless compute service.
+        - E. Lambda can support any programming language using an API.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: B, E
+    
+          First of all, AWS Lambda supports many languages. You may not remember what languages exactly.
+    
+          A: never heard of converting languages.
+    
+          B: it lists several languages using "such as". It seems to be correct.
+    
+          C: apparently wrong. Nobody will use a proprietary language.
+    
+          D: is wrong.
+    
+          E: Looks right.
+        </details>
