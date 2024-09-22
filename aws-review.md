@@ -1473,22 +1473,22 @@
       Agility == make application available quickly.
     </details>
 
-100.  What are the benefits of using the Amazon Relational Database Service? (Choose TWO)
-    - A. Lower administrative burden.
-    - B. Complete control over the underlying host.
-    - C. Resizable compute capacity.
-    - D. Scales automatically to larger or smaller instance types.
-    - E. Supports the document and key-value data structure.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, C
-
-      A and C: because Amazon RDSS is a fully managed service.
-
-      B and D: incorrect. Customers have no control to underlying host or instances.
-
-      E: they are NoSQL features. RDS is a SQL database.
-    </details>
+100. What are the benefits of using the Amazon Relational Database Service? (Choose TWO)
+        - A. Lower administrative burden.
+        - B. Complete control over the underlying host.
+        - C. Resizable compute capacity.
+        - D. Scales automatically to larger or smaller instance types.
+        - E. Supports the document and key-value data structure.
+    
+        <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: A, C
+    
+          A and C: because Amazon RDSS is a fully managed service.
+    
+          B and D: incorrect. Customers have no control to underlying host or instances.
+    
+          E: they are NoSQL features. RDS is a SQL database.
+        </details>
 
 101. What is the connectivity option that uses Internet Protocol Security (IPSec) to establish encrypted connectivity between an on-premises network and the AWS Cloud?
     - A. Internet Gateway.
