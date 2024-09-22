@@ -1473,7 +1473,7 @@
       Agility == make application available quickly.
     </details>
 
-100. What are the benefits of using the Amazon Relational Database Service? (Choose TWO)
+100.  What are the benefits of using the Amazon Relational Database Service? (Choose TWO)
     - A. Lower administrative burden.
     - B. Complete control over the underlying host.
     - C. Resizable compute capacity.
