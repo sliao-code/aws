@@ -731,12 +731,12 @@
     </details>
 
 43.  Which AWS service identifies security groups that allow unrestricted access to a user’s AWS resources?
-    - A. AWS Trusted Advisor.
-    - B. Amazon Inspector.
-    - C. Amazon CloudWatch.
-    - D. AWS CloudTrail.
+     - A. AWS Trusted Advisor.
+     - B. Amazon Inspector.
+     - C. Amazon CloudWatch.
+     - D. AWS CloudTrail.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
 
       Please __remember__ the differences of theses services.
@@ -748,15 +748,15 @@
       C: Amazon CloudWatch monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use CloudWatch to collect and track metrics, which are variables you can measure for your resources and applications. __It primarily monitors resource usages__.
 
       D: AWS CloudTrail Track __user activity and API usage__ on AWS and in hybrid and multicloud environments.
-    </details>
+     </details>
 
 44.  A company has deployed several relational databases on Amazon EC2 instances. Every month the database software vendor releases new security patches that need to be applied to the databases. What is the MOST efficient way to apply the security patches?
-    - A. Connect to each database instance on a monthly basis and download and apply the necessary security patches from the vendor.
-    - B. Enable automate patching for the instances using the Amazon RDS console.
-    - C. In AWS Config. configure a rule for the instances and the required patch level.
-    - D. Use AWS Systems Manager to automate database patching according to a schedule.
+     - A. Connect to each database instance on a monthly basis and download and apply the necessary security patches from the vendor.
+     - B. Enable automate patching for the instances using the Amazon RDS console.
+     - C. In AWS Config. configure a rule for the instances and the required patch level.
+     - D. Use AWS Systems Manager to automate database patching according to a schedule.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
 
       A: this is the LEAST efficient way. So not the answer.
@@ -766,42 +766,42 @@
       C: AWS Config is a config tool that helps you assess, audit, and evaluate the configurations and relationships of your resources. It doesn't seem to manage patching.
 
       D: AWS Systems Manager is a management service that helps you automatically collect software inventory, apply OS patches, create system images, and configure Windows and Linux operating systems. 
-    </details>
+     </details>
 
 45.  Which of the following is a benefit of using the AWS Cloud?
-    - A. Permissive security removes the administrative burden.
-    - B. Ability to focus on revenue-generating activities.
-    - C. Control over cloud network hardware.
-    - D. Choice of specific cloud hardware vendors.
+     - A. Permissive security removes the administrative burden.
+     - B. Ability to focus on revenue-generating activities.
+     - C. Control over cloud network hardware.
+     - D. Choice of specific cloud hardware vendors.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
 
       A: incorrect. 
 
       C, D: It is AWS responsibility.
-    </details>
+     </details>
 
 46.  Which of the following are categories of AWS Trusted Advisor? (Select TWO)
-    - A. Fault Tolerance.
-    - B. Instance Usage.
-    - C. Infrastructure.
-    - D. Performance.
-    - E. Storage Capacity.
+     - A. Fault Tolerance.
+     - B. Instance Usage.
+     - C. Infrastructure.
+     - D. Performance.
+     - E. Storage Capacity.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, D
 
       Please doiubke check and remember what AWS Trusted Advisor does. Cannot guess 100% correct.
-    </details>
+     </details>
 47.  Which AWS services provide a way to extend an on-premises architecture to the aws cloud? (Select TWO)
-    - A. Amazon EBS.
-    - B. Amazon Connect.
-    - C. AWS Storage Gateway.
-    - D. Amazon CloudFront.
-    - E. AWS Direct Connect.
+     - A. Amazon EBS.
+     - B. Amazon Connect.
+     - C. AWS Storage Gateway.
+     - D. Amazon CloudFront.
+     - E. AWS Direct Connect.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C, E
 
       A: it is purely AWS service. Not related to on-premise.
@@ -813,60 +813,60 @@
       D: it is a content delivery service. Not related to o-premise.
 
       E: it provides direct connection between AWS and on-premise data center.
-    </details>
+     </details>
 
 48.  Where can AWS compliance and certification reports be downloaded?
-    - A. AWS Artifact.
-    - B. AWS Concierge.
-    - C. AWS Certificate Manager.
-    - D. AWS Trusted Advisor.
+     - A. AWS Artifact.
+     - B. AWS Concierge.
+     - C. AWS Certificate Manager.
+     - D. AWS Trusted Advisor.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
 
       remember this. Compliance related documents --> Artifact.
-    </details>
+     </details>
 
 49.  Which AWS service would you use to obtain compliance reports and certificates?
-    - A. AWS Artifact.
-    - B. AWS Lambda.
-    - C. Amazon Inspector.
-    - D. AWS Certificate Manager.
+     - A. AWS Artifact.
+     - B. AWS Lambda.
+     - C. Amazon Inspector.
+     - D. AWS Certificate Manager.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
 
       see above.
-    </details>
+     </details>
 
 50.  Which AWS services are defined as global instead of regional? (Select TWO)
-    - A. Amazon Route 53.
-    - B. Amazon EC2.
-    - C. Amazon S3.
-    - D. Amazon CloudFront.
-    - E. Amazon DynamoDB.
+     - A. Amazon Route 53.
+     - B. Amazon EC2.
+     - C. Amazon S3.
+     - D. Amazon CloudFront.
+     - E. Amazon DynamoDB.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, D
 
       Please review AWS global vs regional services!
-    </details>
+     </details>
 
 51.  Which of the following can an AWS customer use to launch a new Amazon Relational Database Service (Amazon RDS) cluster? (Select TWO)
-    - A. AWS Concierge.
-    - B. AWS CloudFormation.
-    - C. Amazon Simple Storage Service (Amazon S3).
-    - D. Amazon EC2 Auto Scaling.
-    - E. AWS Management Console.
+     - A. AWS Concierge.
+     - B. AWS CloudFormation.
+     - C. Amazon Simple Storage Service (Amazon S3).
+     - D. Amazon EC2 Auto Scaling.
+     - E. AWS Management Console.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B, E
 
       To launch Amazon RDS, or to launch an AWS services, there are 3 ways:
       * CloudFormation
       * AWS Management Console
       * Progrmatic API
-    </details>
+     </details>
 
 52. Which of the following are features of Amazon CloudWatch Logs? (Select TWO)
     - A. Summaries by Amazon Simple Notification Service (Amazon SNS).
